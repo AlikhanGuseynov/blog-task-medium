@@ -1,0 +1,15 @@
+C:\Users\Alixan\Desktop\blog-task-medium\bin\Debug\net6.0\blog-task-medium.exe
+C:\Users\Alixan\Desktop\blog-task-medium\bin\Debug\net6.0\blog-task-medium.deps.json
+C:\Users\Alixan\Desktop\blog-task-medium\bin\Debug\net6.0\blog-task-medium.runtimeconfig.json
+C:\Users\Alixan\Desktop\blog-task-medium\bin\Debug\net6.0\blog-task-medium.dll
+C:\Users\Alixan\Desktop\blog-task-medium\bin\Debug\net6.0\blog-task-medium.pdb
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.csproj.AssemblyReference.cache
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.AssemblyInfoInputs.cache
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.AssemblyInfo.cs
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.csproj.CoreCompileInputs.cache
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.dll
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\refint\blog-task-medium.dll
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.pdb
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\blog-task-medium.genruntimeconfig.cache
+C:\Users\Alixan\Desktop\blog-task-medium\obj\Debug\net6.0\ref\blog-task-medium.dll
