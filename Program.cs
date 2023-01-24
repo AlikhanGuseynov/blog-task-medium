@@ -14,19 +14,25 @@ namespace blog_task_medium
     {
         static void Main(string[] args)
         {
-          
-            var commandList = new CommandList();
-            commandList.ShowAllCommand();
-            Console.WriteLine("\n Select command number:");
-            Command selectedCommand = commandList.GetCommandById(Convert.ToInt32(Console.ReadLine()));
-            Console.WriteLine($"You select: {selectedCommand.Content}");
-            switch (selectedCommand.Id)
-            {
-                case 1:
-                    var registration = new Registration();
-                    registration.RunRegistration();
-                    break;
-            }
+            Console.WriteLine(DateTime.Now.Ticks);
+            Console.WriteLine();
+
+            // var commandList = new CommandList();
+            // commandList.ShowAllCommand();
+            // Console.WriteLine("\n Select command number:");
+            // Command selectedCommand = commandList.GetCommandById(Convert.ToInt32(Console.ReadLine()));
+            // Console.WriteLine($"You select: {selectedCommand.Content}");
+            // switch (selectedCommand.Id)
+            // {
+            //     case 1:
+            //         var registration = new Registration();
+            //         registration.RunRegistration();
+            //         break;
+            //     case 2:
+            //         var login = new Login();
+            //         login.RunLogin();
+            //         break;
+            // }
         }
     }
 
