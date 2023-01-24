@@ -14,13 +14,12 @@ namespace blog_task_medium
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(DateTime.Now.Ticks);
-            Console.WriteLine();
-
+            var login = new Login();
+            login.RunLogin();
             // var commandList = new CommandList();
-            // commandList.ShowAllCommand();
+            // commandList.ShowAllPublicCommand();
             // Console.WriteLine("\n Select command number:");
-            // Command selectedCommand = commandList.GetCommandById(Convert.ToInt32(Console.ReadLine()));
+            // Command selectedCommand = commandList.GetPublicCommandById(Convert.ToInt32(Console.ReadLine()));
             // Console.WriteLine($"You select: {selectedCommand.Content}");
             // switch (selectedCommand.Id)
             // {
@@ -36,15 +35,4 @@ namespace blog_task_medium
         }
     }
 
-    class Person
-    {
-        public string Name { get; }
-        public int Age { get; set; }
-
-        public Person(string name, int age)
-        {
-            Name = name;
-            Age = age;
-        }
-    }
 }
